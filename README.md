@@ -1,3 +1,23 @@
+# Sales Data Cleaning Automation
+
+## Overview
+
+This project cleans and processes sales data
+from multiple CSV files using Python and Pandas.
+
+## Features
+
+- Merge multiple CSV files
+- Remove duplicate orders
+- Clean product names
+- Calculate total sales by product
+- Export cleaned data and summary reports
+
+## Technologies
+
+- Python
+- Pandas
+
 ## How to Run
 
 1. Download or clone this repository.
