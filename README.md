@@ -40,3 +40,9 @@ The program reads sales data from the `data/` folder and generates two files in 
 The sample dataset contains 11 unique orders after removing duplicates.
 
 Total sales: **490 THB**.
+
+## Limitations
+
+- Only supports CSV files
+- There is no GUI or web. Required to install Python and Pandas to run locally
+- Conflicting duplicate must review manually
